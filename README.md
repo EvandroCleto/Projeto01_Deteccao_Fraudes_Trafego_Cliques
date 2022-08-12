@@ -2,7 +2,7 @@
 
 Formação Cientista de Dados da Data Science Academy.
 
-Curso: Big Data Real-Time Analytics com Python e Spark.
+Curso: Big Data Analytics com R e Microsoft Azure Machine Learning,
 
 Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile.
 
